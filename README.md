@@ -2,7 +2,7 @@
 
 ### All outputs have been deleted due to privacy. 
 
-This project’s objective is to analyze and better understand users’ behavior from a large dataset corresponding to app interactions data. We utilized NLP techniques to clean and analyze data and implemented state-of-the-art language models to understand queries better and deliver more insightful responses.
+**Objective**:This project’s objective is to analyze and better understand users’ behavior from a large dataset corresponding to app interactions data. We utilized NLP techniques to clean and analyze data and implemented state-of-the-art language models to understand queries better and deliver more insightful responses.
 
 ## Data Cleaning:
 Cleaning the data is the first step of this project. We observed that the dataset contains lots of noise, including bot-generated responses, missing entries, and redundant information. To isolate authentic human interactions, we applied Natural Language Processing (NLP) techniques for text extraction and processing. Through this step, we were able to obtain a valid and useful set of real-human interaction data.
